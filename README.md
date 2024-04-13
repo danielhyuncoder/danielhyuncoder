@@ -36,6 +36,10 @@
 <ul>
   <li><a href="https://github.com/danielhyuncoder/coinmarketcapwebscrapper">CoinMarketCap Webscraping API (FastAPI & Webscrapping)</a></li>
 </ul>
+<h2>ML/AI</h2>
+<ul>
+  <li><a href="https://github.com/danielhyuncoder/LinearPricePredictor/tree/main">Price Predictor (Linear Model)</a></li>
+</ul>
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
