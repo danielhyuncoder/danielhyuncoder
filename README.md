@@ -4,15 +4,26 @@
 </p>
 <br />
 <p>
-   I am peferably (and mainly) a JavaScript developer who utilizes frameworks/libraries/runtimes such as Node.js, React.js, Mongodb, Express and more. During recent times, I also developed an infactuation with Web3 development along with machine learning/ai.
+   I am peferably (and mainly) a JavaScript developer who utilizes frameworks/libraries/runtimes such as Node.js, React.js, Mongodb, Express and more. During recent times, I also developed an infactuation with Web3 development along with machine learning/ai. 
 </p>
-
+<p><a href="https://leetcode.com/DanCodesJS/">Leetcode Profile</a></p>
 <h1>Perfered Programming Languages: </h1>
 <ul>
   <li>C++</li>
   <li>JavaScript</li>
   <li>Python</li>
   <li>Solidity</li>
+</ul>
+<br/>
+<h1>Perfered Technologies: </h1>
+<ul>
+  <li>React.js/React Native</li>
+  <li>Redux</li>
+  <li>Ethers.js</li>
+  <li>Express.js</li>
+  <li>Node.js</li>
+  <li>Pandas</li>
+  <li>FastAPI</li>
 </ul>
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
