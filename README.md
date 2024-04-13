@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greetings! I am a highschool student who is very interested in the general field of computer science. I love creating new projects, trying out new technologies, and overall developing new software/systems.
+
 
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
