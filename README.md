@@ -24,6 +24,8 @@
   <li>Node.js</li>
   <li>Pandas</li>
   <li>FastAPI</li>
+  <li>Mongodb</li>
+  <li>SQL</li>
 </ul>
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
