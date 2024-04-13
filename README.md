@@ -1,3 +1,4 @@
+<h1 color="#0099ff">Daniel. H - @danielhyuncoder</h1>
 ### Greetings! I am a highschool student who is very interested in the general field of computer science. I love creating new projects, trying out new technologies, and overall developing new software/systems.
 
 
