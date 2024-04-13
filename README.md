@@ -4,7 +4,7 @@
 </p>
 <br />
 <p>
-   I am peferably (and mainly) a JavaScript developer who utilizes frameworks/libraries/runtimes such as Node.js, React.js, Mongodb, Express and more. During recent times, I also developed an infactuation with Web3 development along with machine learning/ai. 
+   I am peferably (and mainly) a JavaScript developer who utilizes frameworks/libraries/runtimes such as Node.js, React.js, Mongodb, Express and more. During recent times, I also developed an infactuation with Web3 development along with machine learning/ai. Furthermore, im also an avid problem solver and I love solving algorithimic problems on leetcode daily.
 </p>
 <p><a href="https://leetcode.com/DanCodesJS/">Leetcode Profile</a></p>
 <h1>Perfered Programming Languages: </h1>
