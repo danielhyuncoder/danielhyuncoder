@@ -28,9 +28,13 @@
   <li>SQL</li>
 </ul>
 <h1>Projects:</h1>
-<h2>Web3 Based Projects</h2>
+<h2>Web3</h2>
 <ul>
   <li><a href="https://github.com/danielhyuncoder/BoxSwap">Boxswap</a></li>
+</ul>
+<h2>Webscrapping/API</h2>
+<ul>
+  <li><a href="https://github.com/danielhyuncoder/coinmarketcapwebscrapper">CoinMarketCap Webscraping API (FastAPI & Webscrapping)</a></li>
 </ul>
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
