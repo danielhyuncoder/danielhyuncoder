@@ -28,6 +28,10 @@
   <li>SQL</li>
 </ul>
 <h1>Projects:</h1>
+<h2>Fullstack/Frontend Web2</h2>
+<ul>
+  <li><a href="https://github.com/danielhyuncoder/papertradercrypto">PCrypto (Paper trading app)</a></li>
+</ul>
 <h2>Web3</h2>
 <ul>
   <li><a href="https://github.com/danielhyuncoder/BoxSwap">Boxswap</a></li>
