@@ -31,6 +31,7 @@
 <h2>Fullstack/Frontend Web2</h2>
 <ul>
   <li><a href="https://github.com/danielhyuncoder/papertradercrypto">PCrypto (Paper trading app)</a></li>
+  <li><a href="https://github.com/danielhyuncoder/periodic-table">Periodic Table</a></li>
 </ul>
 <h2>Web3</h2>
 <ul>
@@ -48,7 +49,6 @@
 <ul>
   <li><a href="https://github.com/danielhyuncoder/RemixProgrammingLanguage">Remix Language</a></li>
 </ul>
-
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
