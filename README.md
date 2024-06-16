@@ -43,7 +43,7 @@
 </ul>
 <h2>ML/AI</h2>
 <ul>
-  
+  <li><a href="https://github.com/danielhyuncoder/PolitiSenseAPI/tree/main">PolitiSenseAPI (FastAPI & Custom tensorflow NLP)</a></li>
 </ul>
 <h2>Other</h2>
 <ul>
