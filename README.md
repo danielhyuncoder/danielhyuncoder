@@ -43,7 +43,7 @@
 </ul>
 <h2>ML/AI</h2>
 <ul>
-  <li><a href="https://github.com/danielhyuncoder/LinearPricePredictor/tree/main">Price Predictor (Linear Model)</a></li>
+  
 </ul>
 <h2>Other</h2>
 <ul>
