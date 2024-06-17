@@ -48,6 +48,7 @@
 <h2>Other</h2>
 <ul>
   <li><a href="https://github.com/danielhyuncoder/RemixProgrammingLanguage">Remix Language</a></li>
+  <li><a href="https://github.com/danielhyuncoder/PineScriptStrategiesAndIndicators/tree/main">PineScript Indicators</a></li>
 </ul>
 <!--
 **danielhyuncoder/danielhyuncoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
