@@ -16,16 +16,25 @@
 </ul>
 <br/>
 <h1>Perfered Technologies: </h1>
+<h2>Web: </h2>
 <ul>
   <li>React.js/React Native</li>
   <li>Redux</li>
   <li>Ethers.js</li>
+</ul>
+<h2>Backend: </h2>
+<ul>
   <li>Express.js</li>
   <li>Node.js</li>
-  <li>Pandas</li>
   <li>FastAPI</li>
   <li>Mongodb</li>
   <li>SQL</li>
+</ul>
+<h2>AI/Data Science</h2>
+<ul>
+  <li>Pandas</li>
+  <li>Tensorflow & Keras</li>
+  <li>Numpy</li>
 </ul>
 <h1>Projects:</h1>
 <h2>Fullstack/Frontend Web2</h2>
