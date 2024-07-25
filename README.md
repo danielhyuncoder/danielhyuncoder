@@ -41,6 +41,7 @@
 <ul>
   <li><a href="https://github.com/danielhyuncoder/papertradercrypto">PCrypto (Paper trading app)</a></li>
   <li><a href="https://github.com/danielhyuncoder/periodic-table">Periodic Table</a></li>
+   <li><a href="https://github.com/danielhyuncoder/DSAGym/tree/master">DSAGym (Leetcode clone)</a></li>
 </ul>
 <h2>Web3</h2>
 <ul>
@@ -55,7 +56,7 @@
   <li><a href="https://github.com/danielhyuncoder/PolitiSenseAPI/tree/main">PolitiSenseAPI (FastAPI & Custom tensorflow NLP)</a></li>
   <li><a href="https://github.com/danielhyuncoder/CryptoNewsHeadlineSentimentLibrary">CryptoNewsHeadlineSentimentLibrary (A Python library used to get the overal sentiment of specific crypto news articles. Uses Tensorflow and BeautifulSoup.)</a></li>
 </ul>
-<h2>Other</h2>
+<h2>Other</h2> 
 <ul>
   <li><a href="https://github.com/danielhyuncoder/RemixProgrammingLanguage">Remix Language</a></li>
   <li><a href="https://github.com/danielhyuncoder/PineScriptStrategiesAndIndicators/tree/main">PineScript Indicators</a></li>
