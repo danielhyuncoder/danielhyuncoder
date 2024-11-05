@@ -54,7 +54,7 @@
 <h2>ML/AI</h2>
 <ul>
   <li><a href="https://github.com/danielhyuncoder/PolitiSenseAPI/tree/main">PolitiSenseAPI (FastAPI & Custom tensorflow NLP)</a></li>
-  <li><a href="https://github.com/danielhyuncoder/CryptoNewsHeadlineSentimentLibrary">CryptoNewsHeadlineSentimentLibrary (A Python library used to get the overal sentiment of specific crypto news articles. Uses Tensorflow and BeautifulSoup.)</a></li>
+  <li><a href="https://github.com/danielhyuncoder/CryptoNewsHeadlineSentimentLibrary">CNHS Library (A Python library used to get the overal sentiment of specific crypto news articles. Uses Tensorflow and BeautifulSoup.)</a></li>
 </ul>
 <h2>Other</h2> 
 <ul>
