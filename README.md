@@ -3,10 +3,15 @@
   Greetings! I am a highschool student who is very interested in the general field of computer science. I love creating new projects, trying out new technologies, and overall developing new software/systems.
 </p>
 <br />
-<p>
-   I am peferably (and mainly) a JavaScript developer who utilizes frameworks/libraries/runtimes such as Node.js, React.js, Mongodb, Express and more. During recent times, I also developed an infactuation with Web3 development along with machine learning/ai. Furthermore, im also an avid problem solver and I love solving algorithimic problems on leetcode daily.
-</p>
-<p><a href="https://leetcode.com/DanCodesJS/">Leetcode Profile</a></p>
+<h1>Socials: </h1>
+<div align="left">
+    <a href="https://leetcode.com/u/DanCodesJS/"><img src="https://th.bing.com/th/id/OIP.ymdLUYayjisO2uU47lOI0AHaHa?w=165&h=180&c=7&r=0&o=5&pid=1.7" alt="cplusplus" width="40" height="40"/></a>
+</div>
+<br />
+<h1>Currently I'm Learning: </h1>
+<b>Rust</b>
+<br/>
+<br/>
 <h1>Perferred Programming Languages: </h1>
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
