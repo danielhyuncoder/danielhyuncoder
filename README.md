@@ -42,6 +42,7 @@
   <li><a href="https://github.com/danielhyuncoder/papertradercrypto">PCrypto (Paper trading app)</a></li>
   <li><a href="https://github.com/danielhyuncoder/periodic-table">Periodic Table</a></li>
    <li><a href="https://github.com/danielhyuncoder/DSAGym/tree/master">DSAGym (Leetcode clone)</a></li>
+  <li><a href="https://github.com/danielhyuncoder/The-Trading-Sandbox/tree/main">The Trading Sandbox (Trading Simulator Web App)</a></li>
 </ul>
 <h2>Web3</h2>
 <ul>
