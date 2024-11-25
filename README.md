@@ -8,34 +8,37 @@
 </p>
 <p><a href="https://leetcode.com/DanCodesJS/">Leetcode Profile</a></p>
 <h1>Perferred Programming Languages: </h1>
-<ul>
-  <li>C++</li>
-  <li>JavaScript</li>
-  <li>Python</li>
-  <li>Solidity</li>
-</ul>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+</div>
 <br/>
 <h1>Perferred Technologies: </h1>
 <h2>Web: </h2>
-<ul>
-  <li>React.js/React Native</li>
-  <li>Redux</li>
-  <li>Ethers.js</li>
-</ul>
+<div align="left">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP._Xl87hvWAsWUraMwxsjxggHaEB?w=304&h=180&c=7&r=0&o=5&pid=1.7" alt="Redux" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.ew73HoypfS0xrTR0vk325gAAAA?w=202&h=133&c=7&r=0&o=5&pid=1.7" alt="Ethersjs" width="40" height="40"/>
+</div>
 <h2>Backend: </h2>
-<ul>
-  <li>Express.js</li>
-  <li>Node.js</li>
-  <li>FastAPI</li>
-  <li>Mongodb</li>
-  <li>SQL</li>
-</ul>
+<div align="left">
+   <img src="https://th.bing.com/th/id/OIP.6T_jP0p6ZUKOxoR2niX1nQHaHa?w=174&h=180&c=7&r=0&o=5&pid=1.7" alt="express" width="40" height="40"/>
+<img src="https://th.bing.com/th/id/OIP.bPZyL4LA65gU6WXGycc-NAHaIi?w=159&h=183&c=7&r=0&o=5&pid=1.7" alt="nodejs" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.JXoedlXD-k8WO2Qd26_vOAAAAA?w=162&h=180&c=7&r=0&o=5&pid=1.7" alt="fastapi" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.Ll65QD4_R6G48bVQVJwPjgHaHa?w=153&h=180&c=7&r=0&o=5&pid=1.7" alt="mongodb" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.Ppjp4ggi4QqjaD5-i4jkfwHaHa?w=195&h=195&c=7&r=0&o=5&pid=1.7" alt="sql" width="40" height="40"/>
+</div>
 <h2>AI/Data Science</h2>
-<ul>
-  <li>Pandas</li>
-  <li>Tensorflow & Keras</li>
-  <li>Numpy</li>
-</ul>
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+   <img src="https://th.bing.com/th/id/OIP.vPezx00A1u0WAfS8e8wBXQHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7" alt="numpy" width="40" height="40"/>
+</div>
 <h1>Projects:</h1>
 <h2>Fullstack/Frontend Web2</h2>
 <ul>
