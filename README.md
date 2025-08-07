@@ -9,7 +9,9 @@
 </div>
 <br />
 <h1>Currently I'm Learning: </h1>
-<b>Rust</b>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust" alt="My Skills" />
+</a>
 <br/>
 <br/>
 <h1>Perferred Programming Languages: </h1>
